@@ -9,7 +9,7 @@ To keep track of a user when they use different emails and phoneNumbers
 ### Installation
 - Clone the github repository
 ```
-git clone https://github.com/nitindoodhiya/identity-reconciliation.git
+git clone https://github.com/megha-js/Emotorad-task.git
 ```
 - Change directory into the project
 ```
