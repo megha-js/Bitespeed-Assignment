@@ -13,7 +13,7 @@ git clone https://github.com/megha-js/Emotorad-task.git
 ```
 - Change directory into the project
 ```
-cd identity-reconciliation/
+cd Emotorad-task/
 ```
 - Start the project
 ```
