@@ -9,11 +9,11 @@ To keep track of a user when they use different emails and phoneNumbers
 ### Installation
 - Clone the github repository
 ```
-git clone https://github.com/megha-js/Emotorad-task.git
+git clone https://github.com/megha-js/Bitespeed-Assignment
 ```
 - Change directory into the project
 ```
-cd Emotorad-task/
+cd Bitespeed-Assignment
 ```
 - Start the project
 ```
